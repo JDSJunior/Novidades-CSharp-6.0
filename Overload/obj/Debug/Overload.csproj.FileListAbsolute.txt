@@ -1,0 +1,6 @@
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\Overload\bin\Debug\Overload.exe.config
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\Overload\bin\Debug\Overload.exe
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\Overload\bin\Debug\Overload.pdb
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\Overload\obj\Debug\Overload.exe
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\Overload\obj\Debug\Overload.pdb
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\Overload\obj\Debug\Overload.csprojResolveAssemblyReference.cache

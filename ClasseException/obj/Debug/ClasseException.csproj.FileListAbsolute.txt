@@ -1,0 +1,5 @@
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\ClasseException\bin\Debug\ClasseException.exe.config
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\ClasseException\bin\Debug\ClasseException.exe
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\ClasseException\bin\Debug\ClasseException.pdb
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\ClasseException\obj\Debug\ClasseException.exe
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\ClasseException\obj\Debug\ClasseException.pdb

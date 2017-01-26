@@ -1,0 +1,6 @@
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\NullConditionalOperator\bin\Debug\NullConditionalOperator.exe.config
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\NullConditionalOperator\obj\Debug\NullConditionalOperator.csprojResolveAssemblyReference.cache
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\NullConditionalOperator\bin\Debug\NullConditionalOperator.exe
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\NullConditionalOperator\bin\Debug\NullConditionalOperator.pdb
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\NullConditionalOperator\obj\Debug\NullConditionalOperator.exe
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\NullConditionalOperator\obj\Debug\NullConditionalOperator.pdb

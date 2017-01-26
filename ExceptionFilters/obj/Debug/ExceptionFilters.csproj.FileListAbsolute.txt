@@ -1,0 +1,6 @@
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\ExceptionFilters\bin\Debug\ExceptionFilters.exe.config
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\ExceptionFilters\bin\Debug\ExceptionFilters.exe
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\ExceptionFilters\bin\Debug\ExceptionFilters.pdb
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\ExceptionFilters\obj\Debug\ExceptionFilters.csprojResolveAssemblyReference.cache
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\ExceptionFilters\obj\Debug\ExceptionFilters.exe
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\ExceptionFilters\obj\Debug\ExceptionFilters.pdb

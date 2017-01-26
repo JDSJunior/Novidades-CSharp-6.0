@@ -1,0 +1,6 @@
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\NullDelegate\bin\Debug\NullDelegate.exe.config
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\NullDelegate\bin\Debug\NullDelegate.exe
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\NullDelegate\bin\Debug\NullDelegate.pdb
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\NullDelegate\obj\Debug\NullDelegate.exe
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\NullDelegate\obj\Debug\NullDelegate.pdb
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\NullDelegate\obj\Debug\NullDelegate.csprojResolveAssemblyReference.cache

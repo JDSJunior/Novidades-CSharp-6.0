@@ -1,0 +1,6 @@
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\AutoPropertyInitializer\bin\Debug\AutoPropertyInitializer.exe.config
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\AutoPropertyInitializer\bin\Debug\AutoPropertyInitializer.exe
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\AutoPropertyInitializer\bin\Debug\AutoPropertyInitializer.pdb
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\AutoPropertyInitializer\obj\Debug\AutoPropertyInitializer.csprojResolveAssemblyReference.cache
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\AutoPropertyInitializer\obj\Debug\AutoPropertyInitializer.exe
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\AutoPropertyInitializer\obj\Debug\AutoPropertyInitializer.pdb

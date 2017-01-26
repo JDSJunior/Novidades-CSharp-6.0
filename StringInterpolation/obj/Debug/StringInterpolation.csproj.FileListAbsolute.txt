@@ -1,0 +1,6 @@
+c:\users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\StringInterpolation\bin\Debug\StringInterpolation.exe.config
+c:\users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\StringInterpolation\bin\Debug\StringInterpolation.exe
+c:\users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\StringInterpolation\bin\Debug\StringInterpolation.pdb
+c:\users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\StringInterpolation\obj\Debug\StringInterpolation.csprojResolveAssemblyReference.cache
+c:\users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\StringInterpolation\obj\Debug\StringInterpolation.exe
+c:\users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\StringInterpolation\obj\Debug\StringInterpolation.pdb

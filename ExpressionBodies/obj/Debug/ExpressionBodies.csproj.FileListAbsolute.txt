@@ -1,0 +1,5 @@
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\ExpressionBodies\bin\Debug\ExpressionBodies.exe.config
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\ExpressionBodies\bin\Debug\ExpressionBodies.exe
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\ExpressionBodies\bin\Debug\ExpressionBodies.pdb
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\ExpressionBodies\obj\Debug\ExpressionBodies.exe
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\ExpressionBodies\obj\Debug\ExpressionBodies.pdb

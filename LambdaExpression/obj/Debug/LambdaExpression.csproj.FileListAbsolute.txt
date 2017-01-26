@@ -1,0 +1,6 @@
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\LambdaExpression\bin\Debug\LambdaExpression.exe.config
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\LambdaExpression\bin\Debug\LambdaExpression.exe
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\LambdaExpression\bin\Debug\LambdaExpression.pdb
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\LambdaExpression\obj\Debug\LambdaExpression.csprojResolveAssemblyReference.cache
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\LambdaExpression\obj\Debug\LambdaExpression.exe
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\LambdaExpression\obj\Debug\LambdaExpression.pdb

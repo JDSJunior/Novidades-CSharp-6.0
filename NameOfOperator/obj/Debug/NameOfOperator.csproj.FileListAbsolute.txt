@@ -1,0 +1,6 @@
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\NameOfOperator\bin\Debug\NameOfOperator.exe.config
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\NameOfOperator\bin\Debug\NameOfOperator.exe
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\NameOfOperator\bin\Debug\NameOfOperator.pdb
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\NameOfOperator\obj\Debug\NameOfOperator.exe
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\NameOfOperator\obj\Debug\NameOfOperator.pdb
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\NameOfOperator\obj\Debug\NameOfOperator.csprojResolveAssemblyReference.cache

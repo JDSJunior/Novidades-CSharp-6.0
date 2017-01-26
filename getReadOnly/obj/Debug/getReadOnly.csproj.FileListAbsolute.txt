@@ -1,0 +1,6 @@
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\getReadOnly\bin\Debug\getReadOnly.exe.config
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\getReadOnly\bin\Debug\getReadOnly.exe
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\getReadOnly\bin\Debug\getReadOnly.pdb
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\getReadOnly\obj\Debug\getReadOnly.csprojResolveAssemblyReference.cache
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\getReadOnly\obj\Debug\getReadOnly.exe
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\getReadOnly\obj\Debug\getReadOnly.pdb

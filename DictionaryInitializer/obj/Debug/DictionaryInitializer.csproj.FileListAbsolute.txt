@@ -1,0 +1,5 @@
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\DictionaryInitializer\bin\Debug\DictionaryInitializer.exe.config
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\DictionaryInitializer\bin\Debug\DictionaryInitializer.exe
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\DictionaryInitializer\bin\Debug\DictionaryInitializer.pdb
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\DictionaryInitializer\obj\Debug\DictionaryInitializer.exe
+C:\Users\junio\onedrive\documentos\visual studio 2015\Projects\NovidadesCSharp6.0\DictionaryInitializer\obj\Debug\DictionaryInitializer.pdb
