@@ -1,4 +1,4 @@
-# csharp-6.0-course-solutions
+# Novidades-CSharp-6.0
 
 O objetivo do curso é apresentar ao desenvolvedor as novidades da linguagem C# 6.0 no VS 2015, incluindo filtros de exceção, interpolação
 de strings, operadores de condicionais nulas, dentre outros. Através de exemplos totalmente práticos, mostra como os novos recursos
